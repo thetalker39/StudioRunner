@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thetalker39/StudioRunner.git/static/css/main.802c0caa.css",
+    "main.js": "/thetalker39/StudioRunner.git/static/js/main.9d63220e.js",
+    "static/js/488.06be5749.chunk.js": "/thetalker39/StudioRunner.git/static/js/488.06be5749.chunk.js",
+    "index.html": "/thetalker39/StudioRunner.git/index.html",
+    "main.802c0caa.css.map": "/thetalker39/StudioRunner.git/static/css/main.802c0caa.css.map",
+    "main.9d63220e.js.map": "/thetalker39/StudioRunner.git/static/js/main.9d63220e.js.map",
+    "488.06be5749.chunk.js.map": "/thetalker39/StudioRunner.git/static/js/488.06be5749.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.802c0caa.css",
+    "static/js/main.9d63220e.js"
+  ]
+}
